@@ -1,2 +1,2 @@
 # Quantum-Computation
-Algorithms &amp; machine learning
+Algorithms &amp
