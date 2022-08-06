@@ -1,2 +1,2 @@
 # Quantum-Computation
-Algorithms &amp
+Algorithms 
